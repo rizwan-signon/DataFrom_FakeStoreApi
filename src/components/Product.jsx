@@ -13,7 +13,7 @@ export default function Product() {
     apiData();
   }, []);
   console.log(products);
-
+  /// This is a comment
   return (
     <div className="app">
       <div className="products">
